@@ -1,4 +1,4 @@
 class WelcomeController < ApplicationController
-	def coolpage
+	def index
 	end
 end
